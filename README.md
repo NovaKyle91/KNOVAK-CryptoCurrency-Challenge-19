@@ -1,8 +1,13 @@
 ## KNOVAK-CryptoCurrency-Challenge-19
 
 ## Hello and Thank You for taking the time to review my Crypto Cluster Challenge!
+
 Please review my code in the file labeled Crypto_Clustering_starter_code.ipynb located on the main section of the repository.
-If you wish to view pictures of the line and scatter plot graphs created for this assignment without having to run the ipynb, please go to the Resources folder and open the Images folder. You will even find screengrabs of the Q&A’s that I have also shown below.]
+
+If you wish to view pictures of the line and scatter plot graphs created for this assignment without having to run the ipynb, please go to the Resources folder and open the Images folder. You will even find screengrabs of the Q&A’s that I have also shown below.
+
+Please Note: When reviewing my Cluster and Elbow Composites, please got to the Images folder and select Final Cluster Composite.png and Final Elbow Composite.png. Initially I provided 4 png files of the Cluster and Elbow Composites. The files lableld Final Cluster Composite and Final Elbow Composite are the ones that will showcase both scatter plot graphs (Clusters) on top of each other and both line graphs (Elbow Line) on top of each other. The other 2 cluster and elbow composite png files include each graph side by side.
+
 -----
 # Assignment Questions
 -----
