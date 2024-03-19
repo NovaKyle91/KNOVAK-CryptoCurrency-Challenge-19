@@ -6,34 +6,24 @@ If you wish to view pictures of the line and scatter plot graphs created for thi
 # Assignment Questions
 
 ## Question 1:
-## Question: What is the best value for `k`?
-
-## Answer: The best value for K is 4
-
+## - Question: What is the best value for `k`?
+## - Answer: The best value for K is 4
 
 ## Question 2:
-## Question: What is the total explained variance of the three principal components?
-
-## Answer: The total explained variance is 89%
-
+## - Question: What is the total explained variance of the three principal components?
+## - Answer: The total explained variance is 89%
 
 ## Question 3:
-## Question: What is the best value for `k` when using the PCA data?
-
-## Answer: When using the PCA Data, the best value for k is 3
-
-## Question: Does it differ from the best k value found using the original data?
-
-## Answer:  In reviewing the best value for K using the original data, 4 was a better value
-
+## - Question: What is the best value for `k` when using the PCA data?
+## - Answer: When using the PCA Data, the best value for k is 3
+## - Question: Does it differ from the best k value found using the original data?
+## - Answer:  In reviewing the best value for K using the original data, 4 was a better value
 
 ## Question 4:
-## Question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+## - Question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+## - Answer: Comparing PCA to the scaled data, using PCA  led to near exact clustering of data. Scaling down the data provides for greater findings
 
-## Answer: Comparing PCA to the scaled data, using PCA  led to near exact clustering of data. Scaling down the data provides for greater findings
-
-## Please reach out if you have any questions.
-## Again, thank you for taking the time to review my work!
-# Cheers,
-# -	Kyle Novak
-![image](https://github.com/NovaKyle91/KNOVAK-CryptoCurrency-Challenge-19/assets/145889239/677c3783-2715-4f73-96a0-c06d8b653105)
+Please reach out if you have any questions.
+Again, thank you for taking the time to review my work!
+Cheers,
+-	Kyle Novak
